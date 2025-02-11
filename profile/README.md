@@ -4,7 +4,6 @@ If you're on the hunt for an **immersive and thrilling mobile gaming platform**,
 <a href="https://bom.so/4Q9Q5x" target="_blank">
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQHsImt_5CU6fw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1723665758716?e=1744848000&v=beta&t=xFQwgh_YIEAhochUEIhfVoJCQDd5y3OZzNH_tQHE5dU" alt="download" width="300"/>
 </a>
----
 
 
 
