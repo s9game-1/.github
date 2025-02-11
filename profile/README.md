@@ -3,7 +3,7 @@ If you're on the hunt for an **immersive and thrilling mobile gaming platform**,
 
 ---
 
-|![Screenshot_01](https://github.com/user-attachments/assets/sample-screenshot) | [![download](https://github.com/user-attachments/assets/sample-download-icon)](https://bom.so/4Q9Q5x) |
+|![Screenshot_01](https://media.licdn.com/dms/image/v2/D4D12AQEisTuIe6wTcw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723665345511?e=1744848000&v=beta&t=gHUoSmdVdE84C2Sr8xR4TnAEc2tEH_SqbUKDjNltrKw) | [![download](https://github.com/user-attachments/assets/sample-download-icon)](https://bom.so/4Q9Q5x) |
 |:-------------------------------------------------:|-----------------------|
 | **Platform**: Android 5.0+                       | **Version**: 1.0     |
 | **Size**: 85 MB                                  | ⭐⭐⭐⭐⭐ (5/5)         |
